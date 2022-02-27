@@ -81,7 +81,7 @@ button {
     cursor: pointer;
     font-family: 'Permanent Marker', cursive;
     transition: .3s;
-    background-color: red;
+    background-color: rgb(255, 94, 94);
 }
 
 button:hover {
