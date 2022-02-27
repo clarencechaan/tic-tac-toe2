@@ -19,6 +19,7 @@ body {
     width: 500px;
     border: 10px solid white;
     border-radius: 50px;
+    background-color:rgb(36, 36, 36);
 }
 
 .title {
